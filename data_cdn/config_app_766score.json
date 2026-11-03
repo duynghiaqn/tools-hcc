@@ -1,0 +1,271 @@
+{
+  "version": "1.1.0",
+  "created_at": "2026-11-04T05:50:00+07:00",
+  "updated_at": "2026-11-04T05:56:00+07:00",
+  "total_apps": 35,
+  "categories": [
+    {
+      "id": "dvcqg",
+      "name": "CỔNG DỊCH VỤ CÔNG QUỐC GIA"
+    },
+    {
+      "id": "pmcn",
+      "name": "PHẦN MỀM CHUYÊN NGÀNH"
+    },
+    {
+      "id": "pmnv",
+      "name": "PHẦN MỀM NGHIỆP VỤ"
+    },
+    {
+      "id": "httt",
+      "name": "HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC TẬP TRUNG"
+    }
+  ],
+  "apps": [
+    {
+      "id": "app_1",
+      "name": "CỔNG DVC QUỐC GIA",
+      "url": "https://dichvucong.gov.vn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/7825/7825786.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_2",
+      "name": "ĐIỀU PHỐI GIẢI QUYẾT TTHC",
+      "url": "https://quantricong.dichvucong.gov.vn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/1239/1239719.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_3",
+      "name": "PHẢN ÁNH KIẾN NGHỊ",
+      "url": "http://phananhkiennghi.dichvucong.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/2839/2839174.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_4",
+      "name": "QUẢN TRỊ THANH TOÁN TRỰC TUYẾN",
+      "url": "https://quantrithanhtoan.ndc.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4108/4108843.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_5",
+      "name": "CSDL QUỐC GIA VỀ TTHC",
+      "url": "https://csdltthc.dichvucong.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/14887/14887878.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_6",
+      "name": "DVC ĐẢNG CỘNG SẢN",
+      "url": "https://dichvucong.dcs.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "dvcqg"
+    },
+    {
+      "id": "app_7",
+      "name": "LIÊN THÔNG KHAI SINH - KHAI TỬ",
+      "url": "https://lienthong.dichvucong.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/7890/7890168.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_8",
+      "name": "ĐĂNG KÝ HỘ KINH DOANH",
+      "url": "https://dangnhap.dkkd.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4796/4796727.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_9",
+      "name": "ĐĂNG KÝ DOANH NGHIỆP",
+      "url": "https://dangkykinhdoanh.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3135/3135727.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_10",
+      "name": "QUẢN LÝ HỘ TỊCH",
+      "url": "https://hotichdientu.moj.gov.vn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/7890/7890168.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_11",
+      "name": "NGƯỜI KHUYẾT TẬT",
+      "url": "https://nguoikhuyettat.moh.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/2446/2446056.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_12",
+      "name": "MỤC TIÊU QUỐC GIA - VĂN HÓA",
+      "url": "https://vh2035.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/6654/6654981.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_13",
+      "name": "QUẢN LÝ LAO ĐỘNG NƯỚC NGOÀI",
+      "url": "https://ldnn.vieclam.gov.vn/loginpmcn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3850/3850285.png",
+      "category": "pmcn"
+    },
+    {
+      "id": "app_14",
+      "name": "BÁO CÁO KIỂM SOÁT TTHC",
+      "url": "https://kiemsoattthc.moj.gov.vn/operational-monitoring",
+      "icon": "https://cdn.statically.io/gh/ChippedTopaz/dieu-phoi/main/Logo%20CCHC.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_15",
+      "name": "HỆ THỐNG TỔNG HỢP KSTTHC",
+      "url": "https://hcc.gialai.gov.vn",
+      "icon": "https://cdn.statically.io/gh/ChippedTopaz/dieu-phoi/main/Logo%20CCHC.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_16",
+      "name": "HỆ THỐNG KPI GIA LAI",
+      "url": "https://kpi.gialai.gov.vn",
+      "icon": "https://ik.imagekit.io/97moqce0c/Static/quochuy_817WUGF8g.svg",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_17",
+      "name": "SỔ TAY ĐẢNG VIÊN",
+      "url": "https://sotaydangvien.dcs.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/323/323319.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_18",
+      "name": "QUẢN LÝ VBĐH CỦA ĐẢNG",
+      "url": "https://xacthuctaptrung.dcs.vn/sso/login?appCode=dhtn&service=https://dhtn.dcs.vn/auth/sso/callback",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_19",
+      "name": "HỖ TRỢ AKA247 BỘ TƯ PHÁP",
+      "url": "https://hotrodvc.moj.gov.vn/",
+      "icon": "https://raw.githubusercontent.com/ChippedTopaz/dieu-phoi/main/aka247.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_20",
+      "name": "IDESK GIA LAI",
+      "url": "https://vpdt.gialai.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/7825/7825786.png",
+      "category": "pmnv"
+    },
+    {
+      "id": "app_21",
+      "name": "BỘ CÔNG THƯƠNG",
+      "url": "https://motcua-tthc.moit.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/1037/1037503.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_22",
+      "name": "BỘ DÂN TỘC VÀ TÔN GIÁO",
+      "url": "https://gqtthc.bdttg.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4807/4807598.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_23",
+      "name": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+      "url": "https://motcua.moet.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3976/3976625.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_24",
+      "name": "BỘ KHOA HỌC VÀ CÔNG NGHỆ",
+      "url": "https://motcua.mst.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/3081/3081530.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_25",
+      "name": "BỘ NGOẠI GIAO",
+      "url": "https://bpmc.mofa.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/12352/12352106.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_26",
+      "name": "BỘ NỘI VỤ",
+      "url": "https://motcua.moha.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/10642/10642028.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_27",
+      "name": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
+      "url": "https://motcuannmt.mae.gov.vn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/5078/5078024.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_28",
+      "name": "BỘ QUỐC PHÒNG",
+      "url": "https://motcua.mod.gov.vn/web/bo-quoc-phong/register#/login-dichvucong",
+      "icon": "https://cdn-icons-png.flaticon.com/128/11098/11098913.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_29",
+      "name": "BỘ TÀI CHÍNH",
+      "url": "https://tthc.mof.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4256/4256900.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_30",
+      "name": "BỘ TƯ PHÁP",
+      "url": "https://motcua.moj.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/4252/4252296.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_31",
+      "name": "BỘ VĂN HOÁ THỂ THAO VÀ DU LỊCH",
+      "url": "https://dichvucong.bvhttdl.gov.vn/tiepnhan/dang-nhap",
+      "icon": "https://cdn-icons-png.flaticon.com/128/6654/6654981.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_32",
+      "name": "BỘ XÂY DỰNG",
+      "url": "https://motcuabxd.moc.gov.vn",
+      "icon": "https://cdn-icons-png.flaticon.com/128/6028/6028865.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_33",
+      "name": "BỘ Y TẾ",
+      "url": "https://motcua.moh.gov.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/2382/2382533.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_34",
+      "name": "TTHC CỦA ĐẢNG",
+      "url": "https://gqtthc.dcs.vn/",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "httt"
+    },
+    {
+      "id": "app_35",
+      "name": "MỘT CỬA GIA LAI",
+      "url": "https://motcua.gialai.gov.vn",
+      "icon": "https://cdn.thuvienphapluat.vn/uploads/tintuc/2025/05/05/logo-gia-lai.jpg",
+      "category": "httt"
+    }
+  ]
+}
